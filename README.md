@@ -17,4 +17,3 @@ I would like to express my sincere gratitude to Bharat Intern for providing me w
 Thank you once again for entrusting me with this task and for the invaluable learning experience it has provided.
 
 ---
-**Note:** Customize the description and thanks note as per your specific experience and the context of your internship with Bharat Intern.
