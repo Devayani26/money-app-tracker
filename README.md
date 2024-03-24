@@ -27,12 +27,6 @@ The Money Tracker app is a web-based tool designed to help users manage their ex
 ### Contributions
 Contributions, such as bug fixes or feature enhancements, are welcomed. Please submit an issue or pull request on GitHub.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
-
-### Author
-[Your Name](https://github.com/yourusername)
-
 ### Acknowledgments
 - Inspired by the need for a simple and efficient expense tracking solution.
 - Special thanks to [OpenAI](https://openai.com) for providing the technology to build intelligent applications.
